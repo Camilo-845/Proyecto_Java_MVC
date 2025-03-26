@@ -1,5 +1,5 @@
-CREATE SCHEMA SpotifyTIC;
-USE SpotifyTIC;
+CREATE SCHEMA spotifytic;
+USE spotifytic;
 CREATE TABLE autor(
 id integer auto_increment,
 nombre char(30) NOT NULL,
